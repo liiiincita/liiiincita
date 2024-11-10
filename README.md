@@ -16,7 +16,7 @@
 ꔫ I like playing video games and watching series.</b></p>
 
 <hr>
-
+<BR>
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFtemNqeHhwd29iejlhcXBrdjZqdTA4emQ0YjI5cXY5bHdzY2l4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EGNi09y1CXeyA/giphy.gif" width="55" /><BR> <b><i>SKILLS!!</i></b>
 </div>
