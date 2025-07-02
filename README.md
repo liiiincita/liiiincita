@@ -1,6 +1,8 @@
- <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fugaz One&size=35&duration=3500&pause=300&color=fabee5&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Lin˙ᵕ˙;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" /></a>
-  </div>
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fugaz+One&size=35&duration=3500&pause=300&color=fabee5&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Lin%CB%99%E1%B5%95%CB%99;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</a>
+</p>
   <hr>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNpNTR4a2R4bmlnZmozeTVoMWsyMjkyNjRwNXIzbzdnczZzZG9reSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBy2syOJWxNWESbJAy/giphy.gif">
 
